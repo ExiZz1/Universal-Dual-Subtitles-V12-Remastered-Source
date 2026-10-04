@@ -1,0 +1,5 @@
+Package notice
+
+This Remastered release uses the built-in W3Strings v164 decoder/encoder in the installer script and does not require a separate subtitle utility.
+
+The included r4gui.bundle is the verified Ukrainian font resource used by this release.
